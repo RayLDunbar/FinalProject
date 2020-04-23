@@ -1,0 +1,11 @@
+/Users/chico/Desktop/DndProject/bin/Debug/netcoreapp3.1/DndProject
+/Users/chico/Desktop/DndProject/bin/Debug/netcoreapp3.1/DndProject.deps.json
+/Users/chico/Desktop/DndProject/bin/Debug/netcoreapp3.1/DndProject.runtimeconfig.json
+/Users/chico/Desktop/DndProject/bin/Debug/netcoreapp3.1/DndProject.runtimeconfig.dev.json
+/Users/chico/Desktop/DndProject/bin/Debug/netcoreapp3.1/DndProject.dll
+/Users/chico/Desktop/DndProject/bin/Debug/netcoreapp3.1/DndProject.pdb
+/Users/chico/Desktop/DndProject/obj/Debug/netcoreapp3.1/DndProject.csprojAssemblyReference.cache
+/Users/chico/Desktop/DndProject/obj/Debug/netcoreapp3.1/DndProject.AssemblyInfoInputs.cache
+/Users/chico/Desktop/DndProject/obj/Debug/netcoreapp3.1/DndProject.AssemblyInfo.cs
+/Users/chico/Desktop/DndProject/obj/Debug/netcoreapp3.1/DndProject.dll
+/Users/chico/Desktop/DndProject/obj/Debug/netcoreapp3.1/DndProject.pdb
